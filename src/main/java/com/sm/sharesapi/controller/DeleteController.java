@@ -1,5 +1,5 @@
 package com.sm.sharesapi.controller;
-
+// check
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
